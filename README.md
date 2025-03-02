@@ -1,2 +1,2 @@
 # ideal-broccoli
-this is the repository created during my internship period at Jumpwhere.
+This is the repository created during my internship period at Jumpwhere.
