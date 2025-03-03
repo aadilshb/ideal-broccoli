@@ -2,6 +2,11 @@
 This is the repository created during my internship period at Jumpwhere.
 
 #Jumpwhere Folder
+#sql_queries
+
+
+
+#Jumpwhere Folder
 ------------------
 #anagram.py
 Given 2 strings S1 and S2, check if they are anagrams.
@@ -32,3 +37,11 @@ Given 2 strings, s and t, find the shortest substring of s that contains all cha
 
 #symmetrictree.py
 Given a binary tree root, check if it is symmetric around its center i.e, it is a mirror of itself.
+-----------------
+#sql_queries
+-----------------
+#Assignment1_jump
+Contains the questions as well as Query-Output Screenshots
+
+#assignment queries.txt
+Contains all the sql queries in text form for easy copy paste.
