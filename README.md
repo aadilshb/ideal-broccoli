@@ -41,3 +41,9 @@ Contains the questions as well as Query-Output Screenshots
 
 #assignment queries.txt
 Contains all the sql queries in text form for easy copy paste.
+
+
+
+#html_css_assg
+-------------------------
+Contains the html css assignment. The "Assisgnment Question" Folder contains the question and the "screenshots" Folder contains the screenshot of the created web-pages. "index.html" is for Part A and "about.html" is for Part B
