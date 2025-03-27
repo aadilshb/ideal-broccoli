@@ -1,0 +1,5 @@
+s=input("Enter a string: ")
+s=s.replace(",","temp")
+s=s.replace(".",",")
+s=s.replace("temp",".")
+print(s)
