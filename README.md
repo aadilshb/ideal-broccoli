@@ -56,3 +56,4 @@ All these folders contain the assignment questions as well as solutions.
 #django
 -------------------
 This folder contains three small django projects namely URL Shortner, Dictionary and To Do List made during the internship period as part of assignment 10. Output screen recording is attached as well.
+Note that the project files do not contain settings.py and should be created for the projects to work.
