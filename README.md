@@ -52,3 +52,7 @@ Contains the html css assignment. The "Assisgnment Question" Folder contains the
 #assignment 3,5,6,7,8,9
 -------------------------
 All these folders contain the assignment questions as well as solutions.
+
+#django
+-------------------
+This folder contains three small django projects namely URL Shortner, Dictionary and To Do List made during the internship period as part of assignment 10. Output screen recording is attached as well.
